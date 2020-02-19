@@ -7,4 +7,4 @@ var Rocket = function (color, size) {
   }
 }
 
-module.exports = Rocket;
+module.exports = Rocket; ///comments
